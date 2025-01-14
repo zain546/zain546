@@ -16,17 +16,6 @@ Here are some ideas to get you started:
 -->
 <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=28&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=500&lines=🙋🏻‍♂️Welcome+to+My+Profile!;Happy+Coding!+%F0%9F%91%8D" alt="Typing Animation" />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/zainali546/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on-LinkedIn-blue?style=for-the-badge" alt="LinkedIn Follow" />
-  </a>
-<!--   &nbsp;&nbsp;
-  <a href="https://x.com/Ranazain546" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Ranazain546.svg?style=social" alt="X Follow" />
-  </a> -->
-</div>
-
- </br>
 :star2: "Crafting Ideas into Code" :star2:
 :computer: Passionate Full-Stack Developer | :hammer_and_wrench: Problem Solver | :rocket: Tech Enthusiast
 
@@ -92,3 +81,14 @@ Here are some ideas to get you started:
   <!-- Editor -->
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
+
+## Connect with me:
+<div align="center">
+  <a href="https://www.linkedin.com/in/zainali546/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on-LinkedIn-blue?style=for-the-badge" alt="LinkedIn Follow" />
+  </a>
+<!--   &nbsp;&nbsp;
+  <a href="https://x.com/Ranazain546" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Ranazain546.svg?style=social" alt="X Follow" />
+  </a> -->
+</div>
