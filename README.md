@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=28&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=500&lines=🙋🏻‍♂️Welcome+to+My+Profile!;Happy+Coding!+%F0%9F%91%8D" alt="Typing Animation" />
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=🙋🏻‍♂️Welcome+to+My+Profile!;Happy+Coding!+%F0%9F%91%8D)
 
 :star2: "Crafting Ideas into Code" :star2:
 :computer: Passionate Full-Stack Developer | :hammer_and_wrench: Problem Solver | :rocket: Tech Enthusiast
