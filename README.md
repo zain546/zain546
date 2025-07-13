@@ -78,7 +78,7 @@ Here are some ideas to get you started:
   <!-- <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />  -->
 
   <!-- Communication and Collaboration -->
-  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
+  <!--<img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" /> -->
   <!-- Editor -->
    <!-- <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />  -->
 </p>
