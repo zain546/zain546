@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=🙋🏻‍♂️Welcome+to+My+Profile!;Happy+Coding!+%F0%9F%91%8D)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=🙋🏻‍♂️Welcome+to+My+Profile!;I'm+Zain;Happy+Coding!+%F0%9F%91%8D)
 
-:star2: "Crafting Ideas into Code" :star2:
-:computer: Passionate Full-Stack Developer | :hammer_and_wrench: Problem Solver | :rocket: Tech Enthusiast
+
+:computer: Passionate Full-Stack Developer | :star2: "Crafting Ideas into Code" | :hammer_and_wrench: Problem Solver | :rocket: Tech Enthusiast
 
 ## :rocket: Technologies I Specialize In
 
-#### Here are the top technologies I use
+#### Here are the top technologies I use - (Languages, Frameworks & Tools)
 <p align="center">
   <!-- Foundational Technologies -->
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -44,8 +44,10 @@ Here are some ideas to get you started:
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
- <!-- <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> 
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> -->
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> 
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+ <!-- <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> -->
 <!-- Styling and UI Libraries -->
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -74,7 +76,7 @@ Here are some ideas to get you started:
   <!--<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> -->
   <!--<img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-000000?style=flat-square&logo=websocket&logoColor=white" /> -->
    <!-- APIs/Testing -->
-  <!--<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" /> -->
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" /> 
   <!-- <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />  -->
 
   <!-- Communication and Collaboration -->
@@ -92,4 +94,11 @@ Here are some ideas to get you started:
   <a href="https://x.com/Ranazain546" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Ranazain546.svg?style=social" alt="X Follow" />
   </a> -->
+</div>
+
+<!-- STATS -->
+<div>
+<h2 align="center">⚡Stats </h2>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zain546&show_icons=true&locale=en&theme=tokyonight" alt="Zain" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zain546&&theme=tokyonight&card_width=600"" alt="Zain" /></p>
 </div>
