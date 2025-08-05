@@ -100,5 +100,5 @@ Here are some ideas to get you started:
 <div>
 <h2 align="center">⚡Stats </h2>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zain546&show_icons=true&locale=en&theme=tokyonight" alt="Zain" /></p> -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zain546&&theme=tokyonight&card_width=600"" alt="Zain" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zain546&&theme=tokyonight" alt="Zain" /></p>
 </div>
